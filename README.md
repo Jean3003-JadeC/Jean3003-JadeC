@@ -1,11 +1,24 @@
-# Jean Paul Abarca Ccama 👋
-### Ingeniero Ciencia de Datos & IA - Nutricionista Clínico Renal
+<div align="center">
+  <h1>Hola, soy Jean Paul Abarca Ccama 👋</h1>
+  <h3>Ingeniero en Ciencia de Datos & IA | Nutricionista Clínico Renal</h3>
+  
+  <p><i>Construyendo el puente entre la <b>gestión de salud clínica de alta precisión</b> y la <b>analítica avanzada con Inteligencia Artificial</b>.</i></p>
+  
+  <p>Actualmente fusiono la experiencia operativa en gestión de redes de salud institucionales con el desarrollo de software, estructurando ecosistemas tecnológicos limpios y escalables como <b>Jade Core</b>.</p>
 
-Construyendo el puente entre la **gestión de salud clínica de alta precisión** y la **analítica avanzada con Inteligencia Artificial**. 
+  <br/>
 
-Actualmente fusiono la experiencia operativa en gestión de redes de salud institucionales con el desarrollo de software, estructurando ecosistemas tecnológicos limpios y escalables como **Jade Core**.
+  <div>
+    <a href="https://www.linkedin.com/in/jean-paul-abarca-ccama-00948032a/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="mailto:jeanp.ab.cc@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    </a>
+  </div>
+</div>
 
----
+<br/>
 
 ### 🚀 Lo que estoy construyendo y aprendiendo
 - 👨‍💻 Especializándome en **Ingeniería en Ciencia de Datos e Inteligencia Artificial** (Cibertec).
@@ -17,26 +30,25 @@ Actualmente fusiono la experiencia operativa en gestión de redes de salud insti
 
 ### 🛠️ Stack Tecnológico y Dominio Técnico
 
-**Desarrollo, Diseño y Arquitectura:**
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<div align="center">
+  <!-- Estos íconos se generan automáticamente y tienen un diseño unificado y moderno -->
+  <img src="https://skillicons.dev/icons?i=py,ts,html,css,mysql,postgres,scikit,docker,github,vscode&perline=10" alt="Tech Stack" />
+</div>
 
-**Datos e Inteligencia Artificial:**
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=black)
-![Ollama / Local LLMs](https://img.shields.io/badge/Local_AI-Gemma-orange?style=for-the-badge)
-
-**Infraestructura, Redes & Herramientas:**
-![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-2b3137?style=for-the-badge&logo=github-copilot&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Cisco](https://img.shields.io/badge/Cisco_Networking-049fd9?style=for-the-badge&logo=cisco&logoColor=white)
+<br/>
 
 ---
 
-### 📬 Contacto y Colaboración
-- **LinkedIn:** [[Enlace a tu perfil de LinkedIn](https://www.linkedin.com/in/jean-paul-abarca-ccama-00948032a?utm_source=share_via&utm_content=profile&utm_medium=member_android)]
-- **Email:** [jeanp.ab.cc@gmail.com]
+### 📊 Actividad y Estadísticas
 
-> *“Rigurosidad Científica y Tecnológica aplicada a la optimización de procesos complejos.”*
+<div align="center">
+  <!-- Estas tarjetas se actualizarán en tiempo real con tu actividad de GitHub -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Jean3003-JadeC&show_icons=true&theme=transparent&hide_border=true&title_color=007ACC&icon_color=007ACC" alt="Estadísticas de GitHub" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jean3003-JadeC&layout=compact&theme=transparent&hide_border=true&title_color=007ACC" alt="Lenguajes Top" width="48%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <p><i>“Rigurosidad Científica y Tecnológica aplicada a la optimización de procesos complejos.”</i></p>
+</div>
