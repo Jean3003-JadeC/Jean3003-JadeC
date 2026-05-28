@@ -31,8 +31,9 @@
 ### 🛠️ Stack Tecnológico y Dominio Técnico
 
 <div align="center">
-  <!-- Estos íconos se generan automáticamente y tienen un diseño unificado y moderno -->
-  <img src="https://skillicons.dev/icons?i=py,ts,html,css,mysql,postgres,scikit,docker,github,vscode&perline=10" alt="Tech Stack" />
+  <a href="https://github.com/Jean3003-JadeC">
+    <img src="https://skillicons.dev/icons?i=py,ts,html,css,mysql,postgres,scikit,docker,github,vscode&perline=10" alt="Tech Stack" />
+  </a>
 </div>
 
 <br/>
