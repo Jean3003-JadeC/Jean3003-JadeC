@@ -36,7 +36,7 @@ Actualmente fusiono la experiencia operativa en gestión de redes de salud insti
 ---
 
 ### 📬 Contacto y Colaboración
-- **LinkedIn:** [Enlace a tu perfil de LinkedIn]
-- **Email:** [Tu correo profesional]
+- **LinkedIn:** [[Enlace a tu perfil de LinkedIn](https://www.linkedin.com/in/jean-paul-abarca-ccama-00948032a?utm_source=share_via&utm_content=profile&utm_medium=member_android)]
+- **Email:** [jeanp.ab.cc@gmail.com]
 
 > *“Rigurosidad Científica y Tecnológica aplicada a la optimización de procesos complejos.”*
