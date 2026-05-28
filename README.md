@@ -8,10 +8,10 @@
 
   <br/>
 
-  <div align="center">
-  <a href="https://github.com/Jean3003-JadeC">
-    <img src="https://skillicons.dev/icons?i=py,ts,html,css,mysql,postgres,sklearn,docker,github,vscode&perline=10" alt="Tech Stack" />
-  </a>
+ <div>
+    <a href="https://www.linkedin.com/in/jean-paul-abarca-ccama-00948032a/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
     <a href="mailto:jeanp.ab.cc@gmail.com">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
     </a>
@@ -32,7 +32,7 @@
 
 <div align="center">
   <a href="https://github.com/Jean3003-JadeC">
-    <img src="https://skillicons.dev/icons?i=py,ts,html,css,mysql,postgres,scikit,docker,github,vscode&perline=10" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=py,ts,html,css,mysql,postgres,sklearn,docker,github,vscode&perline=10" alt="Tech Stack" />
   </a>
 </div>
 
