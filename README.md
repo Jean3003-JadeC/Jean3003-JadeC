@@ -43,8 +43,8 @@
 
 <div align="center">
 
-[![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Jean3003-JadeC&show_icons=true&theme=transparent&hide_border=true&title_color=007ACC&icon_color=007ACC)](https://github.com/Jean3003-JadeC)
-[![Lenguajes Top](https://github-readme-stats.vercel.app/api/top-langs/?username=Jean3003-JadeC&layout=compact&theme=transparent&hide_border=true&title_color=007ACC)](https://github.com/Jean3003-JadeC)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Jean3003-JadeC&show_icons=true&theme=transparent&hide_border=true&title_color=007ACC&icon_color=007ACC&v=1)
+![Lenguajes Top](https://github-readme-stats.vercel.app/api/top-langs/?username=Jean3003-JadeC&layout=compact&theme=transparent&hide_border=true&title_color=007ACC&v=1)
 
 </div>
 
